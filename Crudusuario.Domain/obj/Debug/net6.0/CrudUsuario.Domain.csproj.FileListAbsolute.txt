@@ -1,0 +1,12 @@
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\bin\Debug\net6.0\CrudUsuario.Domain.deps.json
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\bin\Debug\net6.0\CrudUsuario.Domain.dll
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\bin\Debug\net6.0\CrudUsuario.Domain.pdb
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.csproj.AssemblyReference.cache
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.AssemblyInfoInputs.cache
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.AssemblyInfo.cs
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.csproj.CoreCompileInputs.cache
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.dll
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\obj\Debug\net6.0\refint\CrudUsuario.Domain.dll
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.pdb
+D:\Repos\Projetos\Crud-Usuarios\Crudusuario.Domain\obj\Debug\net6.0\ref\CrudUsuario.Domain.dll
